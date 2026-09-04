@@ -17,7 +17,7 @@ The complete practical follows all seven tasks specified in **Deep Learning Prac
 
 ## 📺 Presentation Video
 
-👉 ** https://drive.google.com/drive/folders/1O-dcr32qOVesicWDYNmZlxY19WgJL1Ku?usp=sharing**
+👉 **https://drive.google.com/file/d/16ybJtslHuO4M240rghvHcEmVf1IjCBSL/view?usp=sharing**
 
 
 
